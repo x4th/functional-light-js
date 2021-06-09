@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "composition/ex.js"
+      "program": "immutability/ex.js"
     }
   ]
 }
