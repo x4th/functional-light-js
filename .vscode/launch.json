@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "closure/ex.js"
+      "program": "composition/ex.js"
     }
   ]
 }
